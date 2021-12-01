@@ -1,2 +1,13 @@
 # GunConstraint
-This is a Constraint system prefab that allows a gun to be moved round an avatar's body and to allow usage of 2 hands on that weapon.
+This prefab is made to allow the usage of both hands to aim a gun and move it around you avatar's body while only using a single 3D model.
+
+Tutorial: https://www.youtube.com/watch?v=1u4iA9dUWVM
+
+This prefab includes:
+- All required parts for the system, to function, set up and ready to go!
+- Animations as well as an example controller for reference
+- An example gun for deomstration purposes (credits below)
+
+Credit:
+
+M16 model from https://skfb.ly/69vDC
